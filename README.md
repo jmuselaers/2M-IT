@@ -1,5 +1,5 @@
-# LEGO
-Workshop instructions and presentation for LEGO
+# 2M-IT
+Workshop instructions and presentation for 2M-IT
 
 # Data Science Workbench URL
 https://cdsw.cloudera.tellarius.eu
