@@ -7,7 +7,7 @@ https://cdsw.cloudera.tellarius.eu
 
 # Traininguser logins
 
-# training01	3NRBFSBAz4BtSPWi
+#training01	3NRBFSBAz4BtSPWi
 # training02	U3FaJWPxvNdiYJQn
 # training03	2iLrbj3pYjD9XBBY
 # training04	ShNqKSmec8RdK9BA
